@@ -1,0 +1,2431 @@
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/ HTTP/1.1" 200 4181
+"GET /static/admin/css/base.css HTTP/1.1" 200 21207
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3505
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 200 2694
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"GET /static/admin/css/responsive.css HTTP/1.1" 200 18533
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 200 2929
+"GET /static/admin/js/theme.js HTTP/1.1" 200 1943
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+Not Found: /favicon.ico
+"GET /favicon.ico HTTP/1.1" 404 3394
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4360
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/css/login.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3505
+Watching for file changes with StatReloader
+"POST /admin/login/?next=/admin/ HTTP/1.1" 200 4360
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/login.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+Not Found: /.well-known/appspecific/com.chrome.devtools.json
+"GET /.well-known/appspecific/com.chrome.devtools.json HTTP/1.1" 404 3505
+"POST /admin/login/?next=/admin/ HTTP/1.1" 302 0
+"GET /admin/ HTTP/1.1" 200 10045
+"GET /static/admin/css/dashboard.css HTTP/1.1" 200 441
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+"OPTIONS /api/admin/products?pageSize=50 HTTP/1.1" 200 0
+"GET /api/admin/products?pageSize=50 HTTP/1.1" 301 0
+"OPTIONS /api/admin/products/?pageSize=50 HTTP/1.1" 200 0
+Forbidden: /api/admin/products/
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 403 58
+Forbidden: /api/admin/products/
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 403 58
+Forbidden: /api/admin/products/
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 403 58
+Watching for file changes with StatReloader
+"GET /admin/ HTTP/1.1" 200 10045
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/dashboard.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+"GET /admin/orders/order/ HTTP/1.1" 200 22131
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/css/changelists.css HTTP/1.1" 200 6566
+"GET /static/admin/js/urlify.js HTTP/1.1" 200 7887
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 200 347
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+"GET /static/admin/js/core.js HTTP/1.1" 200 5682
+"GET /static/admin/js/actions.js HTTP/1.1" 200 7872
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 8943
+"GET /static/admin/img/search.svg HTTP/1.1" 200 458
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 200 292458
+"GET /static/admin/js/filters.js HTTP/1.1" 200 978
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 200 232381
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+"GET /admin/core/category/ HTTP/1.1" 200 17143
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 200 436
+"GET /admin/orders/orderitem/ HTTP/1.1" 200 28826
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/customers/customer/ HTTP/1.1" 200 17650
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 200 560
+"GET /admin/customers/customer/ HTTP/1.1" 200 17650
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /admin/customers/customer/ HTTP/1.1" 200 17650
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+Forbidden: /api/admin/products/
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 403 58
+Forbidden: /api/admin/products/
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 403 58
+"OPTIONS /api/admin/orders?pageSize=50 HTTP/1.1" 200 0
+"GET /api/admin/orders?pageSize=50 HTTP/1.1" 301 0
+"OPTIONS /api/admin/orders/?pageSize=50 HTTP/1.1" 200 0
+Forbidden: /api/admin/orders/
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 403 58
+"OPTIONS /api/admin/dashboard HTTP/1.1" 200 0
+"OPTIONS /api/admin/orders?pageSize=5 HTTP/1.1" 200 0
+"GET /api/admin/dashboard HTTP/1.1" 301 0
+"GET /api/admin/orders?pageSize=5 HTTP/1.1" 301 0
+"OPTIONS /api/admin/dashboard/ HTTP/1.1" 200 0
+Forbidden: /api/admin/dashboard/
+"OPTIONS /api/admin/orders/?pageSize=5 HTTP/1.1" 200 0
+"GET /api/admin/dashboard/ HTTP/1.1" 403 58
+Forbidden: /api/admin/orders/
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 403 58
+"OPTIONS /api/admin/orders?pageSize=5 HTTP/1.1" 200 0
+"OPTIONS /api/admin/dashboard HTTP/1.1" 200 0
+"OPTIONS /api/admin/dashboard/ HTTP/1.1" 200 0
+"OPTIONS /api/admin/orders/?pageSize=5 HTTP/1.1" 200 0
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"OPTIONS /api/products?page_size=6&featured=true HTTP/1.1" 200 0
+"OPTIONS /api/categories HTTP/1.1" 200 0
+"GET /api/categories HTTP/1.1" 301 0
+"GET /api/products?page_size=6&featured=true HTTP/1.1" 301 0
+"OPTIONS /api/categories/ HTTP/1.1" 200 0
+"OPTIONS /api/products/?page_size=6&featured=true HTTP/1.1" 200 0
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"OPTIONS /api/products?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 0
+"GET /api/products?page=1&page_size=12&sortBy=newest HTTP/1.1" 301 0
+"OPTIONS /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 0
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"OPTIONS /api/admin/auth/user/ HTTP/1.1" 200 0
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"OPTIONS /api/admin/orders?pageSize=50 HTTP/1.1" 200 0
+"OPTIONS /api/admin/orders/?pageSize=50 HTTP/1.1" 200 0
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"OPTIONS /api/admin/products?pageSize=50 HTTP/1.1" 200 0
+"OPTIONS /api/admin/products/?pageSize=50 HTTP/1.1" 200 0
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139563
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"OPTIONS /api/admin/auth/login/ HTTP/1.1" 200 0
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 108
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 108
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 108
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 108
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 108
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /admin/customers/customer/ HTTP/1.1" 200 17650
+"GET /static/admin/css/base.css HTTP/1.1" 304 0
+"GET /static/admin/css/dark_mode.css HTTP/1.1" 304 0
+"GET /static/admin/css/changelists.css HTTP/1.1" 304 0
+"GET /static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+"GET /static/admin/css/responsive.css HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+"GET /static/admin/js/jquery.init.js HTTP/1.1" 304 0
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /static/admin/js/core.js HTTP/1.1" 304 0
+"GET /static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+"GET /static/admin/js/actions.js HTTP/1.1" 304 0
+"GET /static/admin/js/urlify.js HTTP/1.1" 304 0
+"GET /static/admin/js/prepopulate.js HTTP/1.1" 304 0
+"GET /static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-no.svg HTTP/1.1" 304 0
+"GET /static/admin/img/search.svg HTTP/1.1" 304 0
+"GET /static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+"GET /static/admin/js/theme.js HTTP/1.1" 304 0
+"GET /static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+"GET /static/admin/js/filters.js HTTP/1.1" 304 0
+"GET /static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+"GET /static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+"GET /static/admin/img/sorting-icons.svg HTTP/1.1" 304 0
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 108
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 108
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 108
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+Watching for file changes with StatReloader
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 45
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+Forbidden: /api/admin/auth/login/
+"POST /api/admin/auth/login/ HTTP/1.1" 403 45
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+"POST /api/admin/auth/login/ HTTP/1.1" 200 143
+"GET /api/admin/auth/user/ HTTP/1.1" 200 119
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/categories/ HTTP/1.1" 200 1941
+"POST /api/admin/auth/login/ HTTP/1.1" 200 143
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"POST /api/admin/auth/login/ HTTP/1.1" 200 143
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"POST /api/admin/auth/login/ HTTP/1.1" 200 143
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\orders\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\orders\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\orders\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"OPTIONS /api/admin/auth/logout/ HTTP/1.1" 200 0
+"POST /api/admin/auth/logout/ HTTP/1.1" 200 32
+Unauthorized: /api/admin/auth/user/
+"GET /api/admin/auth/user/ HTTP/1.1" 401 30
+Unauthorized: /api/admin/auth/user/
+"GET /api/admin/auth/user/ HTTP/1.1" 401 30
+"POST /api/admin/auth/login/ HTTP/1.1" 200 143
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139828
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139972
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139972
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139972
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139972
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+Internal Server Error: /api/admin/products/
+Traceback (most recent call last):
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\decorators\csrf.py", line 56, in wrapper_view
+    return view_func(*args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 199, in get
+    return self.list(request, *args, **kwargs)
+           ~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\mixins.py", line 38, in list
+    queryset = self.filter_queryset(self.get_queryset())
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\rest_framework\generics.py", line 150, in filter_queryset
+    queryset = backend().filter_queryset(self.request, queryset, self)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 68, in filter_queryset
+    filterset = self.get_filterset(request, queryset, view)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 20, in get_filterset
+    filterset_class = self.get_filterset_class(view, queryset)
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\rest_framework\backends.py", line 51, in get_filterset_class
+    class AutoFilterSet(self.filterset_base):
+    ...<2 lines>...
+            fields = filterset_fields
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 62, in __new__
+    new_class.base_filters = new_class.get_filters()
+                             ~~~~~~~~~~~~~~~~~~~~~^^
+  File "C:\Users\User\Desktop\Development Work\Shop\backend\venv\Lib\site-packages\django_filters\filterset.py", line 349, in get_filters
+    raise TypeError(
+    ...<2 lines>...
+    )
+TypeError: 'Meta.fields' must not contain non-model field names: in_stock
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 500 139972
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12539
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\authentication\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12539
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12539
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12539
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12539
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3612
+"GET /api/admin/dashboard/ HTTP/1.1" 200 181
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/ HTTP/1.1" 200 192
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 3612
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12539
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/admin/products/ HTTP/1.1" 200 0
+Forbidden: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 403 45
+Forbidden: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 403 45
+Forbidden: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 403 45
+Forbidden: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 403 45
+Forbidden: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 403 45
+Forbidden: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 403 45
+Forbidden: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 403 45
+Forbidden: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 403 45
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\orders\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\orders\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12632
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3701
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3701
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12632
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3701
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3701
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12632
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3701
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12632
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\orders\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12632
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"OPTIONS /api/admin/dashboard/stats/ HTTP/1.1" 200 0
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"POST /api/admin/auth/logout/ HTTP/1.1" 200 32
+Unauthorized: /api/admin/auth/user/
+"GET /api/admin/auth/user/ HTTP/1.1" 401 30
+"POST /api/admin/auth/login/ HTTP/1.1" 200 143
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+Forbidden: /api/admin/dashboard/stats/
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 403 58
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+"OPTIONS /api/admin/customers/?pageSize=50 HTTP/1.1" 200 0
+"OPTIONS /api/admin/customers/stats/ HTTP/1.1" 200 0
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1184
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1184
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1184
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1184
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1184
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12539
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+Method Not Allowed: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 405 41
+Method Not Allowed: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 405 41
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+Method Not Allowed: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 405 41
+Method Not Allowed: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 405 41
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\customers\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 12564
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+Bad Request: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 400 75
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 400 75
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/products/ HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13142
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_urls.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13135
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13137
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13137
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13137
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13137
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13137
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13137
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13137
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13137
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13137
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"OPTIONS /api/products?page=1&page_size=12&category=apparel&sortBy=newest HTTP/1.1" 200 0
+"GET /api/products?page=1&page_size=12&category=apparel&sortBy=newest HTTP/1.1" 301 0
+"OPTIONS /api/products/?page=1&page_size=12&category=apparel&sortBy=newest HTTP/1.1" 200 0
+Bad Request: /api/products/
+"GET /api/products/?page=1&page_size=12&category=apparel&sortBy=newest HTTP/1.1" 400 88
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/products/?featured=true&page_size=6 HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13117
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7806
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /api/products/?page_size=2 HTTP/1.1" 200 13501
+"GET /media/products/test-product-123_main.jpg HTTP/1.1" 200 75234
+"GET /media/products/car-phone-mount_main.jpg HTTP/1.1" 200 174260
+"GET /media/products/educational-building-blocks-set_main.jpg HTTP/1.1" 200 76438
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 200 76370
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 200 113877
+"GET /media/products/camping-tent-4-person_main.jpg HTTP/1.1" 200 1005568
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 200 54366
+"GET /media/products/indoor-plant-collection_main.jpg HTTP/1.1" 200 151279
+"GET /media/products/premium-denim-jeans_main.jpg HTTP/1.1" 200 75785
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 200 76438
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 200 66142
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 200 85670
+"GET /media/products/premium-wireless-headphones_main.jpg HTTP/1.1" 200 60366
+"GET /media/products/smart-fitness-watch_main.jpg HTTP/1.1" 200 55102
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 304 0
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 304 0
+"GET /media/products/premium-wireless-headphones_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-fitness-watch_main.jpg HTTP/1.1" 304 0
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 304 0
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-fitness-watch_main.jpg HTTP/1.1" 304 0
+"GET /media/products/premium-wireless-headphones_main.jpg HTTP/1.1" 304 0
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 304 0
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 304 0
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 304 0
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-fitness-watch_main.jpg HTTP/1.1" 304 0
+"GET /media/products/premium-wireless-headphones_main.jpg HTTP/1.1" 304 0
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+Not Found: /media/api/placeholder/400/400
+"GET /media/api/placeholder/400/400 HTTP/1.1" 404 3552
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /media/api/placeholder/400/400
+"GET /media/api/placeholder/400/400 HTTP/1.1" 404 3552
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 304 0
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 304 0
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-fitness-watch_main.jpg HTTP/1.1" 304 0
+"GET /media/products/premium-wireless-headphones_main.jpg HTTP/1.1" 304 0
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/products/?page_size=2 HTTP/1.1" 200 13501
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/categories/ HTTP/1.1" 200 1941
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\ipswich_retail\settings.py changed, reloading.
+Watching for file changes with StatReloader
+"OPTIONS /api/products?page_size=6&featured=true HTTP/1.1" 200 0
+"OPTIONS /api/categories HTTP/1.1" 200 0
+"OPTIONS /api/products/?page_size=6&featured=true HTTP/1.1" 200 0
+"OPTIONS /api/admin/auth/user/ HTTP/1.1" 200 0
+"OPTIONS /api/categories/ HTTP/1.1" 200 0
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 304 0
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 304 0
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 304 0
+"GET /media/products/premium-wireless-headphones_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-fitness-watch_main.jpg HTTP/1.1" 304 0
+"OPTIONS /api/admin/orders/?pageSize=5 HTTP/1.1" 200 0
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"OPTIONS /api/admin/orders/?pageSize=50 HTTP/1.1" 200 0
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"OPTIONS /api/admin/products/?pageSize=50 HTTP/1.1" 200 0
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"OPTIONS /api/products?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 0
+"OPTIONS /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 0
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /media/products/test-product-123_main.jpg HTTP/1.1" 304 0
+"GET /media/products/car-phone-mount_main.jpg HTTP/1.1" 304 0
+"GET /media/products/educational-building-blocks-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 304 0
+"GET /media/products/camping-tent-4-person_main.jpg HTTP/1.1" 304 0
+"GET /media/products/indoor-plant-collection_main.jpg HTTP/1.1" 304 0
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 304 0
+"GET /media/products/premium-denim-jeans_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 304 0
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-fitness-watch_main.jpg HTTP/1.1" 304 0
+"GET /media/products/premium-wireless-headphones_main.jpg HTTP/1.1" 304 0
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\urls.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\core\views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 13501
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+"OPTIONS /api/admin/auth/logout/ HTTP/1.1" 200 0
+"POST /api/admin/auth/logout/ HTTP/1.1" 200 32
+Watching for file changes with StatReloader
+Unauthorized: /api/admin/auth/user/
+"GET /api/admin/auth/user/ HTTP/1.1" 401 30
+"GET /api/categories/ HTTP/1.1" 200 1941
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 7967
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 304 0
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 304 0
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 304 0
+"GET /media/products/premium-wireless-headphones_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-fitness-watch_main.jpg HTTP/1.1" 304 0
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+"OPTIONS /api/admin/auth/login/ HTTP/1.1" 200 0
+"POST /api/admin/auth/login/ HTTP/1.1" 200 143
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"OPTIONS /api/admin/dashboard/stats/ HTTP/1.1" 200 0
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 334
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 13521
+"POST /api/admin/auth/logout/ HTTP/1.1" 200 32
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"OPTIONS /api/admin/auth/user/ HTTP/1.1" 200 0
+Unauthorized: /api/admin/auth/user/
+"GET /api/admin/auth/user/ HTTP/1.1" 401 30
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+"OPTIONS /api/admin/auth/login/ HTTP/1.1" 200 0
+"POST /api/admin/auth/login/ HTTP/1.1" 200 143
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"OPTIONS /api/admin/customers/?pageSize=50 HTTP/1.1" 200 0
+"OPTIONS /api/admin/customers/stats/ HTTP/1.1" 200 0
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"OPTIONS /api/products?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 0
+"OPTIONS /api/categories HTTP/1.1" 200 0
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"OPTIONS /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 0
+"OPTIONS /api/categories/ HTTP/1.1" 200 0
+"GET /api/categories/ HTTP/1.1" 200 2039
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12568
+"GET /media/products/car-phone-mount_main.jpg HTTP/1.1" 304 0
+"GET /media/products/test-product-123_main.jpg HTTP/1.1" 304 0
+"GET /media/products/educational-building-blocks-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 304 0
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 304 0
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 304 0
+"GET /media/products/camping-tent-4-person_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 304 0
+"GET /media/products/indoor-plant-collection_main.jpg HTTP/1.1" 304 0
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 304 0
+"GET /media/products/premium-denim-jeans_main.jpg HTTP/1.1" 304 0
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 304 0
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/categories/ HTTP/1.1" 200 2039
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12568
+"OPTIONS /api/products?page_size=6&featured=true HTTP/1.1" 200 0
+"OPTIONS /api/products/?page_size=6&featured=true HTTP/1.1" 200 0
+"GET /api/categories/ HTTP/1.1" 200 2039
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 6576
+"OPTIONS /api/admin/orders/?pageSize=5 HTTP/1.1" 200 0
+"OPTIONS /api/admin/dashboard/stats/ HTTP/1.1" 200 0
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 329
+"OPTIONS /api/admin/orders/?pageSize=50 HTTP/1.1" 200 0
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"OPTIONS /api/admin/products/?pageSize=50 HTTP/1.1" 200 0
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 14597
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 14597
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 14597
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+"OPTIONS /api/admin/products/ HTTP/1.1" 200 0
+Bad Request: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 400 75
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+Bad Request: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 400 75
+Bad Request: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 400 75
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 14597
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15157
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+Bad Request: /api/admin/products/
+"POST /api/admin/products/ HTTP/1.1" 400 43
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15157
+"POST /api/admin/products/ HTTP/1.1" 201 602
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\admin_views.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+C:\Users\User\Desktop\Development Work\Shop\backend\apps\products\serializers.py changed, reloading.
+Watching for file changes with StatReloader
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"GET /media/products/premium-wireless-headphones_main.jpg HTTP/1.1" 304 0
+"GET /media/products/smart-fitness-watch_main.jpg HTTP/1.1" 304 0
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"OPTIONS /api/products/dieter-stanley HTTP/1.1" 200 0
+"GET /api/products/dieter-stanley HTTP/1.1" 301 0
+"OPTIONS /api/products/dieter-stanley/ HTTP/1.1" 200 0
+"GET /api/products/dieter-stanley/ HTTP/1.1" 200 636
+"OPTIONS /api/products?page_size=4&category=%5Bobject+Object%5D HTTP/1.1" 200 0
+"GET /api/products?page_size=4&category=%5Bobject+Object%5D HTTP/1.1" 301 0
+"OPTIONS /api/products/?page_size=4&category=%5Bobject+Object%5D HTTP/1.1" 200 0
+Bad Request: /api/products/
+"GET /api/products/?page_size=4&category=%5Bobject+Object%5D HTTP/1.1" 400 88
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+"OPTIONS /api/admin/products/15/images/ HTTP/1.1" 200 0
+Bad Request: /api/admin/products/15/images/
+"POST /api/admin/products/15/images/ HTTP/1.1" 400 62
+Watching for file changes with StatReloader
+Unauthorized: /api/admin/auth/user/
+"GET /api/admin/auth/user/ HTTP/1.1" 401 30
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 6576
+"GET /api/categories/ HTTP/1.1" 200 2039
+Watching for file changes with StatReloader
+"GET /admin/auth/user/ HTTP/1.1" 302 0
+"GET /admin/login/?next=/admin/auth/user/ HTTP/1.1" 200 4201
+"GET /static/admin/css/login.css HTTP/1.1" 200 958
+"OPTIONS /api/categories HTTP/1.1" 200 0
+"OPTIONS /api/products?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 0
+Unauthorized: /api/admin/auth/user/
+"GET /api/admin/auth/user/ HTTP/1.1" 401 30
+"GET /api/products?page=1&page_size=12&sortBy=newest HTTP/1.1" 301 0
+"GET /api/categories HTTP/1.1" 301 0
+"OPTIONS /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 0
+"GET /api/products/?page=1&page_size=12&sortBy=newest HTTP/1.1" 200 12159
+"GET /media/products/test-product-123_main.jpg HTTP/1.1" 200 75234
+"GET /media/products/car-phone-mount_main.jpg HTTP/1.1" 200 174260
+"GET /media/products/organic-skincare-set_main.jpg HTTP/1.1" 200 76370
+"GET /media/products/educational-building-blocks-set_main.jpg HTTP/1.1" 200 76438
+"GET /media/products/programming-fundamentals-book_main.jpg HTTP/1.1" 200 113877
+"GET /media/products/professional-yoga-mat_main.jpg HTTP/1.1" 200 54366
+"GET /media/products/camping-tent-4-person_main.jpg HTTP/1.1" 200 1005568
+"GET /media/products/smart-home-security-camera_main.jpg HTTP/1.1" 200 76438
+"GET /media/products/indoor-plant-collection_main.jpg HTTP/1.1" 200 151279
+"GET /media/products/premium-denim-jeans_main.jpg HTTP/1.1" 200 75785
+"GET /media/products/organic-cotton-t-shirt_main.jpg HTTP/1.1" 200 85670
+"OPTIONS /api/products?page_size=6&featured=true HTTP/1.1" 200 0
+"GET /api/products?page_size=6&featured=true HTTP/1.1" 301 0
+"OPTIONS /api/products/?page_size=6&featured=true HTTP/1.1" 200 0
+"GET /api/products/?page_size=6&featured=true HTTP/1.1" 200 6576
+"GET /media/products/4k-ultra-hd-tv-55_main.jpg HTTP/1.1" 200 66142
+"POST /admin/login/?next=/admin/auth/user/ HTTP/1.1" 200 4380
+"POST /admin/login/?next=/admin/auth/user/ HTTP/1.1" 302 0
+"GET /admin/auth/user/ HTTP/1.1" 200 14296
+"GET /admin/jsi18n/ HTTP/1.1" 200 3343
+"GET /api/admin/auth/csrf/ HTTP/1.1" 200 80
+"POST /api/admin/auth/login/ HTTP/1.1" 200 143
+"GET /api/admin/auth/user/ HTTP/1.1" 200 128
+"OPTIONS /api/admin/dashboard/stats/ HTTP/1.1" 200 0
+"OPTIONS /api/admin/orders/?pageSize=5 HTTP/1.1" 200 0
+"GET /api/admin/orders/?pageSize=5 HTTP/1.1" 200 1271
+"GET /api/admin/dashboard/stats/ HTTP/1.1" 200 329
+"OPTIONS /api/admin/orders/?pageSize=50 HTTP/1.1" 200 0
+"GET /api/admin/orders/?pageSize=50 HTTP/1.1" 200 3635
+"OPTIONS /api/admin/products/?pageSize=50 HTTP/1.1" 200 0
+"GET /api/admin/products/?pageSize=50 HTTP/1.1" 200 15760
+"OPTIONS /api/admin/customers/?pageSize=50 HTTP/1.1" 200 0
+"OPTIONS /api/admin/customers/stats/ HTTP/1.1" 200 0
+Not Found: /api/admin/customers/stats/
+"GET /api/admin/customers/stats/ HTTP/1.1" 404 23
+"GET /api/admin/customers/?pageSize=50 HTTP/1.1" 200 1246
