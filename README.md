@@ -259,7 +259,7 @@ DB_PASSWORD=postgres
 
 ### Free-Tier Platforms
 
-#### Render
+#### Vercel
 ```bash
 # Deploy backend
 # 1. Connect GitHub repository
@@ -270,15 +270,13 @@ DB_PASSWORD=postgres
 DJANGO_SECRET_KEY=your-secret-key
 DEBUG=False
 DATABASE_URL=postgresql://...
-CORS_ALLOWED_ORIGINS=https://your-frontend-url.onrender.com
+CORS_ALLOWED_ORIGINS=https://your-frontend-url.Vercel.app
 ```
 
-#### Railway
+#### Pythonanywhere.com
 ```bash
-# Deploy with Railway CLI
-railway login
-railway init
-railway up
+# Deploy with Pythonanywhere.com CLI
+Pythonanywhere.com login
 ```
 
 #### PythonAnywhere
@@ -366,8 +364,6 @@ This project is licensed under the MIT License.
 - **Health Check**: http://localhost:8000/api/health/
 
 ## 🎯 Roadmap
-
-- [ ] Payment integration (Stripe, PayPal)
 - [ ] Advanced analytics dashboard
 - [ ] Mobile app support
 - [ ] Multi-language support
@@ -375,5 +371,3 @@ This project is licensed under the MIT License.
 - [ ] Customer reviews and ratings
 - [ ] Wishlist functionality
 - [ ] Advanced search with Elasticsearch
-- [ ] Real-time notifications
-- [ ] Advanced reporting
